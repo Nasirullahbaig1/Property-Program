@@ -1,0 +1,23 @@
+CHITRAL HOMES
+
+Hi!
+Hope all are doing well.
+As being a C to C startup we provide a coustmer to coustmer services
+through which people comunicate regarding property dealing and can sell
+and buy assets.
+
+This program is developed by 4 persons from chitral as below:
+1: Wazir Aman(student BCS im sciences) 
+2: Faizan Alam(student BCS im sciences)
+3: Faisal Ahmad(student BCS im sciences)
+4: Nasir Ullah Baig(student BCS im science)
+
+In this program we provide diffrent features as follow:
+*A person can search a property by area and features
+*A person can upload his or her property for sell or for rent
+*This program provide a direct comunication with the owner to discuss further
+
+As this is a new startup so kindly give a riview or suggestion so we can improve our services.
+
+THANKS
+Regurd CHITRAL HOMES 

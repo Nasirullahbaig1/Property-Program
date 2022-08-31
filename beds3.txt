@@ -1,0 +1,63 @@
+        **********
+	HOUSE NO 1
+	**********
+	Covered Area : 5 Marla
+	Bedrooms = 3           Washrooms = 3
+	Address : Gulberg Road,Gulberg No 1 , Peshawar
+	Rent : 26,000
+	Name:Nasih Ullah Jan   contact: +923136445715, +923369245715
+*********************************************************************
+ 	**********
+	HOUSE NO 2
+	**********
+	Covered Area : 6 Marla
+	Bedrooms = 3        Washrooms = 2
+	Address : University Town ,Town Heights, Peshawar
+	Rent : 35,OOO
+	Name:Meezan Shah    contact: +923332218288, +923335960738
+*********************************************************************
+        **********
+	HOUSE NO 3
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 3\tWashrooms = 2 
+	Address :University Town, Circular Road, Peshawar
+	Rent : 40,OOO
+	Name:Muhammad Sadiq\tcontact: +923357906625
+**********************************************************************
+        **********
+	HOUSE NO 4
+	**********
+	Covered Area : 5 Marla
+	Bedrooms = 3            Washrooms = 3 
+	Address : Gulberg Road,Gulberg No 1 , Peshawar 
+	Rent : 26,000
+	Name:Nasih Ullah Jan    contact: +923136445715, +923369245715
+**********************************************************************
+        **********
+	HOUSE NO 5
+	**********
+	Covered Area : 3 Marla
+	Bedrooms = 3       Washrooms = 2
+	Address : Bamba Road, Madina Street, Gulberg No 2 , Peshawar
+	Rent : 20,000
+	Name:Naseer Khan   contact: +923136445715
+**********************************************************************
+        **********
+	HOUSE NO 6 
+	********** 
+	Covered Area : 5 Marla
+	Bedrooms = 3            Washrooms = 2
+	Address : Rahatabad, Amin Road, Peshawar
+	Rent : 30,000
+	Name:Muhammad Shahzad   contact: +923315185544
+**********************************************************************
+        **********
+        HOUSE NO 7
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 3              Washrooms = 2 
+	Address : Rahatabad, Peshawar 
+	Rent : 20,000
+	Name:Syed Gohar Ali Shah  contact: +923009596905
+**********************************************************************

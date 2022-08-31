@@ -1,0 +1,27 @@
+        **********
+	HOUSE NO 1
+	**********
+	Covered Area : 5 Marla
+	Bedrooms = 4    Washrooms = 4
+	Address :Hayatabad pahse-6,sector f-6,streetno 12,houseno 32,Peshawar 
+	Rent : 50,OOO
+	Name:Ali Rehman Yousafzai\tcontact: +92915863297
+****************************************************************************
+        **********
+	HOUSE NO 2
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 4           Washrooms = 3 
+	Address : Gulberg No 3, Izzat Khan Chowk, Peshawar
+	Rent : 32,000
+	Name:Nasih Ullah Jan   contact: +923136445715, +923369245715
+****************************************************************************
+        **********
+	HOUSE NO 3
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 4        Washrooms = 4 
+	Address : Gulbahar, Peshawar
+	Rent : 25,000
+	Name:Hamayun Shah   contact: +923002824207
+*****************************************************************************

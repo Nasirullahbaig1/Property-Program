@@ -1,0 +1,45 @@
+        **********
+	HOUSE NO 1
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 2     Washrooms = 2
+	Address : Railway Road , Peshawar
+	price : 2000,000 
+	Name:M.Rafiq     contact: +92-3357906625 
+***************************************************************
+	********** 
+	HOUSE NO 2
+	**********
+        Covered Area : 4 Marla
+	Bedrooms = 2          Washrooms = 2
+        Address : Nishterabad , Peshawar
+	price  : 20,00000 
+	Name:Atif Ifthikar    contact: +23008591591, +923005900327
+****************************************************************
+        **********
+	HOUSE NO 3
+	**********
+	Covered Area : 4 Marla
+	Bedrooms = 2          Washrooms = 2
+	Address : Nishterabad , Peshawar
+	price : 26,00000 
+	Name:Atif Khan    contact: +923008591591, +923005900327
+******************************************************************
+        **********
+	HOUSE NO 4
+	**********
+	Covered Area : 2 Marla
+	Bedrooms = 2          Washrooms = 1
+	Address : Talab Road, Nothia Qadeem, Saddar, Peshawar
+	price : 27,00000
+        Name:Naseeb Ullah     contact: +923119111905
+*******************************************************************
+        **********
+	HOUSE NO 5 
+	**********
+	Covered Area : 3 Marla
+	Bedrooms = 2    Washrooms = 1 
+	Address : Fuwara Chowk, Saddar, Peshawar 
+	price : 25,00000
+	Name:Vikram    contact: +923178334216
+********************************************************************
